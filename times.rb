@@ -1,4 +1,3 @@
- def using_times
-   7.times do
+ def 7.using_times do
    	puts "Wingardum Leviosa"
  end
