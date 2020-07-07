@@ -1,4 +1,4 @@
-def using_7.times do
+def using_times do
    	puts "Wingardum Leviosa"
  end
   end
