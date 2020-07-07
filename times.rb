@@ -2,6 +2,6 @@
 
  end
 
-    7.times do
+7.times do
 	puts "Wingardum Leviosa"
 end
