@@ -1,6 +1,5 @@
-counter = 0
-loop using_time do
-  counter +=
+def using_times
+   7.times do
    	puts "Wingardum Leviosa"
-  if counter >= 7
  end
+end 
